@@ -1,8 +1,12 @@
 package rocks.zipcode;
 
+import static rocks.zipcode.ReverseVowels.reverseVowels;
+
 public class Main {
     public static void main(String[] args) {
-        System.out.println("hello")
+        String input = "hello";
+
+        System.out.println(reverseVowels("leetcode"));
     }
 
 
