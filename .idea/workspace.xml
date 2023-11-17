@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="62293b9a-f310-4bfe-8116-31b57d05fa2a" name="Changes" comment="gcd of strings leetcode">
+      <change afterPath="$PROJECT_DIR$/src/main/java/rocks/zipcode/ReverseVowels.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/rocks/zipcode/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rocks/zipcode/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/rocks/zipcode/Template.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rocks/zipcode/Template.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,13 +31,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/Users/olamide/local.projects/LeetCodePractice"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/olamide/local.projects/LeetCodePractice&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="rocks.zipcode.Main" />
