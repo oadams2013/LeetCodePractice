@@ -7,9 +7,10 @@ public class ReverseVowels {
     //final - once VOWELS is initialized it can't be changed
     public static String reverseVowels(String c){
        char[] characters = c.toCharArray();
-       //
+       //since words are strings and strings are letters or rather an array of characters, a character array was initialized
+        // string c is made into a character array
        int left =0, right= characters.length-1;
-
+        //
        while(left < right){
            while (left < right && VOWELS.indexOf(characters[left]) == -1){
                left++;

@@ -1,16 +1,15 @@
 package rocks.zipcode;
 
-import static rocks.zipcode.ReverseVowels.reverseVowels;
+import static rocks.zipcode.ReverseWords.reverseWords;
 
 public class Main {
     public static void main(String[] args) {
-        String input = "hello";
+        String s = "the sky is blue";
 
-        System.out.println(reverseVowels("leetcode"));
+        System.out.println(reverseWords(s));
+
+
     }
-
-
-
 }
 
 
