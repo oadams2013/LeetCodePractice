@@ -11,6 +11,9 @@ public class ReverseWords {
 //        for (int i = 0; i <s.length(); i++) {
 //            c = s.charAt(i);
 //            d = c + d;
+        s = s.trim(); //this allows for the removal of leading and trailing whitespaces
+
+        s= s.replaceAll("\\s+", " "); //replace multiple spaces between words with a single space
 
         Pattern p = Pattern.compile("\s"); // the string is split when there are whitespace characters
         String[] temp = p.split(s); // and stored in a String array named temp (short for temporary)
